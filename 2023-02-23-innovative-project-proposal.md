@@ -33,7 +33,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
   - List all design considerations and the required technologies
 * **系統方塊圖**
   - Draw a System Block Diagram
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/C5ZnJYRwllE" title="今天也很舒適，也很舒適🌼祝您有美好的一天|內心的平靜" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/C5ZnJYRwllE" title="今天也很舒適，也很舒適🌼祝您有美好的一天|內心的平靜" 
 ---
 ## 家用飛行機器人
 ### 應用功能說明
