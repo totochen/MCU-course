@@ -42,7 +42,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 3. 清潔環境：撢灰塵, 除臭
 4. 丟棄垃圾：丟棄小型垃圾袋至垃圾車或社區資源回收區
 5. 餐飲服務：遞送調味料, 可樂, 水果, 零食
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/C5ZnJYRwllE" title="今天也很舒適，也很舒適🌼祝您有美好的一天|內心的平靜" 
+\
 ### 設計考量與相關技術
 **系統設計考量：**<br>
 1. 移動方式:共軸雙旋翼
@@ -70,6 +70,9 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 3. 噴霧器施肥+澆水
 4. 遙控照明裝置
 5. 雷射殺蟲
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6WZ67f9M3RE" title="모던한 카페에서 나오는 고급스러운 피아노 음악 l GRASS COTTON+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
