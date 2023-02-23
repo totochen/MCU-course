@@ -71,7 +71,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 4. 遙控照明裝置
 5. 雷射殺蟲
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6WZ67f9M3RE" title="모던한 카페에서 나오는 고급스러운 피아노 음악 l GRASS COTTON+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6WZ67f9M3RE" title=" l GRASS COTTON+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### 設計考量與相關技術
