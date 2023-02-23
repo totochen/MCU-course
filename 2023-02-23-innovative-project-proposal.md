@@ -13,6 +13,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 
 ### Nextflix movie: Big Bug
 <iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/4zXTyc2ZjXM" title="坚持5点起床一年, 我搞懂了早起改变人生的秘密" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Service Robots:**<br>
 
@@ -70,9 +71,6 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 3. 噴霧器施肥+澆水
 4. 遙控照明裝置
 5. 雷射殺蟲
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6WZ67f9M3RE" title=" l GRASS COTTON+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
